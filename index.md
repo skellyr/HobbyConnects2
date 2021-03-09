@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+[Age Verification](Age-Verification.html)
+
+[Follow Hobbies User Wants To See](Follow-Hobbies-User-Wants-To-See.html)
+
+[Log In](Log-In.html)
+
+[Make A Post](Make-A-Post.html)
+
 You can use the [editor on GitHub](https://github.com/skellyr/HobbyConnnects2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
